@@ -16,7 +16,7 @@ function App() {
       phoneNumber: "",
     },
     onSubmit: (values) => {
-      console.log(values);
+      console.log(values)
     },
   });
 
